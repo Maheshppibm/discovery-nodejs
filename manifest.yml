@@ -1,9 +1,9 @@
-name: discovery-news-demo-crawl-date
+name: NodeDiscovery
 instances: 1
 memory: 512M
 command: npm start
 services:
-  - Discovery-Demo
+  - Discovery-52
 env:
   DEMO_DEPLOY: 1
 
